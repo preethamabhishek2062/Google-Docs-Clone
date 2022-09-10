@@ -1,6 +1,6 @@
 # Google Docs Clone
 
-A completely Responsive Google Docs Clone - Works on Android, iOS & Web! 
+A fully responsive Google Docs Clone - Works on Android, iOS & Web! 
 
 ## Features
 - Google Authentication
